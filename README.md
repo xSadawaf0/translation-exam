@@ -26,7 +26,6 @@ This repository includes a Postman collection for easy API testing. Import the p
 1. **Clone the repository:**
 	```bash
 	git clone <your-repo-url>
-	cd Translation-Management
 	```
 2. **Install PHP dependencies:**
 	```bash
